@@ -1,0 +1,7 @@
+C:\#development\project\Design-Patterns\scenario_01\CompetingConsumers-Sample\src\ServiceMessage\bin\Debug\netstandard2.0\ServiceMessage.deps.json
+C:\#development\project\Design-Patterns\scenario_01\CompetingConsumers-Sample\src\ServiceMessage\bin\Debug\netstandard2.0\ServiceMessage.dll
+C:\#development\project\Design-Patterns\scenario_01\CompetingConsumers-Sample\src\ServiceMessage\bin\Debug\netstandard2.0\ServiceMessage.pdb
+C:\#development\project\Design-Patterns\scenario_01\CompetingConsumers-Sample\src\ServiceMessage\obj\Debug\netstandard2.0\ServiceMessage.AssemblyInfoInputs.cache
+C:\#development\project\Design-Patterns\scenario_01\CompetingConsumers-Sample\src\ServiceMessage\obj\Debug\netstandard2.0\ServiceMessage.AssemblyInfo.cs
+C:\#development\project\Design-Patterns\scenario_01\CompetingConsumers-Sample\src\ServiceMessage\obj\Debug\netstandard2.0\ServiceMessage.dll
+C:\#development\project\Design-Patterns\scenario_01\CompetingConsumers-Sample\src\ServiceMessage\obj\Debug\netstandard2.0\ServiceMessage.pdb
